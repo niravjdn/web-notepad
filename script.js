@@ -1,4 +1,4 @@
-/*! Minimalist Web Notepad | https://github.com/pereorga/minimalist-web-notepad */
+/*! Minimalist Web Notepad | https://github.com/niravjdn/web-notepad */
 
 function uploadContent() {
 
