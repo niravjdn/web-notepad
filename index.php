@@ -58,7 +58,7 @@ if (isset($_GET['raw']) || strpos($_SERVER['HTTP_USER_AGENT'], 'curl') === 0) {
     <div class="container">
         <textarea id="content"><?php
             if (is_file($path)) {
-                echo $path;
+                //echo $path;
                 print htmlspecialchars(file_get_contents($path), ENT_QUOTES, 'UTF-8');
             }
         ?></textarea>
