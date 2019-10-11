@@ -17,3 +17,7 @@ Make sure the web server is allowed to write to the `_tmp` directory.
 ### On Apache
 
 You may need to enable mod_rewrite and set up `.htaccess` files in your site configuration.
+
+
+### Probalble Extension
+[-] Login Functionality
