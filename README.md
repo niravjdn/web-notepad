@@ -21,4 +21,4 @@ You may need to enable mod_rewrite and set up `.htaccess` files in your site con
 You can host it on simple apache server.
 
 ### Probalble Extension
-[-] Login Functionality
+- Login Functionality
